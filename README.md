@@ -12,7 +12,7 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 2. Clone the new repository to your computer.
 
-3. Inside your local git repository, add your **html** files, as well as your **assets**, **Resources** and **visualizations** folders. Your `index.html` should be the landing page that the user first sees.
+3. Inside your local git repository, add your **html** files, as well as your **static**, **Resources** and **visualizations** folders. Your `index.html` should be the landing page that the user first sees.
 
 4. Push the above changes to GitHub or GitLab.
 
@@ -61,7 +61,7 @@ Ensure your repository has regular commits and a thorough README.md file
 
 ### Considerations
 
-* You may use the [weather data](Resources/cities.csv) or choose another dataset. Alternatively, you may use the included [cities dataset](Resources/cities.csv) and pull the images from the [assets folder](Resources/assets).
+* You may use the [weather data](Resources/cities.csv) or choose another dataset. Alternatively, you may use the included [cities dataset](Resources/cities.csv) and pull the images from the [static folder](Resources/static).
 * You must use Bootstrap. This includes using the Bootstrap `navbar` component for the header on every page, the bootstrap table component for the data page, and the Bootstrap grid for responsiveness on the comparison page.
 * You must deploy your website to GitHub pages, with the website working on a live, publicly accessible URL as a result.
 * Be sure to use a CSS media query for the navigation menu.
